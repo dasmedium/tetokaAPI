@@ -13,3 +13,5 @@ Planned Changes and Additions:
 - Solidity Smart Contracts
 
 Tetoka aims to bridge the gap between cryptographic payment networks and incentivised learning.
+
+This api is scaffolded using [W3Tec Express Typescript Boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)
